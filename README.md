@@ -1,6 +1,7 @@
 # Desafio Técnico - [ Marcos C. Netto Almeida - ( Perfect Pay + Asaas ) ]
 
-Este repositório contém a solução para o desafio técnico utilizando **Laravel 12**.
+- Este repositório contém a solução para o desafio técnico utilizando **Laravel 12**.
+- Está disponível na **branch [`main`]**
 
 ## 🚀 Tecnologias Utilizadas
 
